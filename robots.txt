@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://white999-king.github.io/dvj-kunal-official/sitemap.xml
